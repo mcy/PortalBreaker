@@ -1,0 +1,7 @@
+name: PortalBreaker
+main: com.xorinc.portalbreaker.PortalBreaker
+version: 1.0
+author: drXor
+website: http://github.com/drXor
+description: >
+    Bukkit plugin that removes end portals a la nether portals.
